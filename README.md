@@ -1,7 +1,8 @@
 Here is a calculator made in python! I do this for fun.
 __Interface__
 
-![image](https://github.com/b0xCastor/Calcuator-by-0xCastor/assets/144159132/67b47522-377a-4b06-a23b-4967e0b2ff4c)
+![image](https://github.com/b0xCastor/Calcuator-by-0xCastor/assets/144159132/22dfd39e-99e1-43b7-9c58-2c1af46b7d3a)
+
 
 __1 :__
 
